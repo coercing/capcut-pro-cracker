@@ -1,3 +1,5 @@
+# POTENTIALLY MAY HAVE BEEN PATCHED!!! - 29/10/2025
+
 # Capcut Patcher
 Just a small little c++ based "Capcut" patcher for the pro version / paid version of capcut
 
