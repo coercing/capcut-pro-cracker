@@ -1,10 +1,43 @@
-# POTENTIALLY MAY HAVE BEEN PATCHED!!! - 29/10/2025
+<div align="center">
+<h1>Capcut Patcher</h1>
+<h1>THIS HAS BEEN PATCHED</h1>
 
-# Capcut Patcher
-Just a small little c++ based "Capcut" patcher for the pro version / paid version of capcut
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2024%2F01%2FCapCut-Logo.jpg&f=1&nofb=1&ipt=c732708ae2491c70c258262b50e86723217ac069974a17238cb7eaac50ad18cd" alt="gui" width="100%" align="center"/>
 
-### 🛡️ Does this work and is it safe?
-I like to post my code I allow people to use and "skid" from to prove that anything is possible when it comes to cracking and coding. In addition, yes it is safe to use and it works on my main pc + the vm so there shouldnt be any sort of OS limtation when it comes to windows
+<div align="center">
+<h1>[ credits ]</h1>
 
-## ⚠️ Disclaimer
-This program are provided as-is for educational purposes. Use them responsibly and at your own risk.
+**original development:**: [coercing](https://github.com/coercing)<br>
+</div>
+
+<h1>[ how to use tutorial ]</h1>
+
+### 1. Close / Download the repo
+
+</div>
+
+```bash
+git clone https://github.com/coercing/capcut-pro-cracker
+cd capcut-pro-cracker or open within file explorer!
+```
+
+<div align="center">
+
+### 2. Open the .sln and run via Release!
+
+</div>
+
+```bash
+Make sure youve got all of the dependencies and the include paths correct too!
+```
+
+<div align="center">
+
+### 3. Build and run!
+
+</div>
+
+```bash
+Make sure that capcut is CLOSED when your running this. If nothing happens, run it with capcut open and it should close etc
+RUN AS ADMIN TOO
+```
